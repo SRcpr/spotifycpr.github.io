@@ -1,0 +1,62 @@
+a > img,
+.navbar-brand > img {
+  width: 150px;
+}
+.navbar-nav .nav-item > a {
+  color: white !important;
+}
+.navbar-nav .nav-item a:hover {
+  color: green !important;
+}
+.navbar-nav .nav-item {
+  padding: 0 20px;
+}
+.leftMenu {
+  border-left: 1px solid #fff;
+}
+.leftMenu .nav-item a {
+  color: rgba(197, 193, 193, 0.575) !important;
+}
+#social-links > div a {
+  color: white;
+  font-size: 28px;
+}
+#social-links > div a:hover {
+  color: green;
+}
+#footer-menu b {
+  color: rgba(197, 193, 193, 0.575) !important;
+}
+#footer-menu ul {
+  list-style: none;
+  padding: 0;
+}
+#footer-menu ul a {
+  line-height: 40px;
+  color: white;
+  text-decoration: none;
+  padding: 10px 0;
+}
+#footer-menu ul a:hover {
+  color: green;
+}
+#footer {
+  padding: 70px;
+}
+#privcy li {
+  float: left;
+  padding: 0 15px;
+}
+.footerlast a,
+.footerlast li {
+  /* color: wheat !important; */
+  color: rgba(197, 193, 193, 0.575) !important;
+}
+.footerlast li,
+.footerlast a {
+  line-height: 0;
+  font-size: 13px;
+}
+/* .footerlast a {
+  font-size: 13px;
+} */
